@@ -1,6 +1,6 @@
 # Pre-work Study Guide
 
-Visit the live site here! https://github.com/nadeemamdev/prework-study-guide
+[Visit the live site here!] (https://nadeemamdev.github.io/prework-study-guide/)
 
 ## Description
 
