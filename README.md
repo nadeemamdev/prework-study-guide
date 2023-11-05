@@ -1,5 +1,7 @@
 #Pre-work Study Guide
 
+Visit the live site here! https://github.com/nadeemamdev/prework-study-guide
+
 ## Description
 
 My motivatiion behind the project was to revise and improve my HTML, CSS and Javascript skills.
